@@ -4,6 +4,8 @@ https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper
 
 https://israelg99.github.io/2017-03-23-Word2Vec-Explained/
 
+![alt text](docs/ops.png)
+
 # Word2Vec in PyTorch
 
 Implementation of the first paper on word2vec - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781). For detailed explanation of the code here, check my post - [Word2vec with PyTorch: Reproducing Original Paper](https://notrocketscience.blog/word2vec-with-pytorch-implementing-original-paper/).
